@@ -1,4 +1,6 @@
-mupdf/mupdf
-mupdf/mupdf/*
-mupdf/corpus
-mupdf/corpus/*
+mupdf-fuzz/mupdf
+mupdf-fuzz/mupdf/*
+mupdf-fuzz/corpus
+mupdf-fuzz/corpus/*
+mupdf-fuzz/target
+mupdf-fuzz/target/*
